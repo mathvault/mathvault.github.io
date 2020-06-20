@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/css/main.css">
+
 # Math Vault Resource Hub
 Welcome to the club!
 

@@ -24,7 +24,7 @@ Welcome to the club!
 
 Link to [**anchor**](#text-ornaments) is fine too.
 
-URL link (such as https://mathvault.ca) automatically converts to link
+To turn URL (such as <https://mathvault.ca>) into link, use `<>`.
 
 ~~strikethrough~~ with `~~`
 

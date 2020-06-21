@@ -1,6 +1,6 @@
  ---
  ---
 
-@import "{{ site.theme }}";
+@import '/assets/css/style.css';
 
 body{font-family:'Helvetica Neue',sans-serif; font-size:30px;}

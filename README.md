@@ -129,6 +129,6 @@ Using `p` tag with `text-align:right`
 
 ### Superscript and Subscript
 
-<h4 style="text-align:center;">E<sub>nergy</sub> = mc<sup>123456780</sup>!</h4>
+<h3 style="text-align:center;">E<sub>nergy</sub> = mc<sup>123456780</sup>!</h3>
 
 That's it! Class dismissed!

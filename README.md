@@ -1,6 +1,6 @@
 ---
 
-title: Math Vault Resource Hub
+ title: Math Vault Resource Hub
 
 ---
 

@@ -1,7 +1,3 @@
----
-title: Math Vault Resource Hub
----
-
 # Math Vault Resource Hub
 Welcome to the club!
 

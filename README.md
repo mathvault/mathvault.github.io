@@ -119,4 +119,8 @@ Philips Electric Razor | 2 | $29.99
   <dd>A canine animal. Sometimes not very friendly.</dd>
 </dl>
 
+### Alternatively-aligned paragraphs
+
+<p style="text-align:center;">A right-aligned paragraph. Not possible in native Markdown, but still possible with HTML!</p>
+
 That's it! Class dismissed!

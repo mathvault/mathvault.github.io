@@ -101,6 +101,8 @@ Philips Electric Razor | 2 | $29.99
 
 ## Raw HTML
 
+### Description List
+
 ```
 <dl>
   <dt>Cat</dt>
@@ -124,5 +126,9 @@ Philips Electric Razor | 2 | $29.99
 Using `p` tag with `text-align:right`
 
 <p style="text-align:right;">A right-aligned paragraph. Not possible in native Markdown, but still possible with HTML!</p>
+
+### Superscript and Subscript
+
+<h4 style="text-align:center;">E<sub>nergy</sub> = mc<sup>123456780</sup>!</h4>
 
 That's it! Class dismissed!

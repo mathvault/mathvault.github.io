@@ -1,4 +1,7 @@
-<link rel="stylesheet" href="/css/main.css">
+---
+layout:post
+title: Math Vault Resource Hub
+---
 
 # Math Vault Resource Hub
 Welcome to the club!

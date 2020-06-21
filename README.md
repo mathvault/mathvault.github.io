@@ -121,6 +121,8 @@ Philips Electric Razor | 2 | $29.99
 
 ### Alternatively-aligned paragraphs
 
-<div style="text-align:right;">A right-aligned paragraph. Not possible in native Markdown, but still possible with HTML!</div>
+Using `p` tag with `text-align:right`
+
+<p style="text-align:right;">A right-aligned paragraph. Not possible in native Markdown, but still possible with HTML!</p>
 
 That's it! Class dismissed!

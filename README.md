@@ -1,7 +1,5 @@
 ---
-
- title: Math Vault Resource Hub
-
+title: Math Vault Resource Hub
 ---
 
 # Math Vault Resource Hub

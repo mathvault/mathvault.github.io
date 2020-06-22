@@ -1,5 +1,6 @@
 ---
 title: About This Hub
+layout: default
 permalink: /about/
 author: Math Vault
 toc: true

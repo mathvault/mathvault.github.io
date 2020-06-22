@@ -5,6 +5,8 @@ layout: single
 permalink: /first-post
 classes: wide
 toc: true
+sidebar: 
+  nav: "main"
 ---
 
 A **first post**. Exciting!

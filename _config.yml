@@ -97,7 +97,7 @@ author:
   avatar           : /Redditbots.png
   bio              : "Geeky and cute. A bit dorky."
   location         : "Montreal, Quebec"
-  email            : info@mathvault.ca
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

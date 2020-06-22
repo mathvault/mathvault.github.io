@@ -21,4 +21,4 @@ This is a quick **about page** about this *awesome* testing hub.
 
 <figure class="third"><img src="/BLM.jpg"/> <img src="/BLM.jpg"/> <img src="/BLM.jpg"/> <figcaption>Three figures sides by sides</figcaption></figure>
 
-Watch out! This paragraph uses the class `.notice--danger`!{: .notice--danger}
+<p class="notice--danger">Watch out! This paragraph uses the class .notice--danger!</p>

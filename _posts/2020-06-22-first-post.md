@@ -7,7 +7,7 @@ category: posts
 classes: wide
 toc: true
 sidebar: 
-  image: //placehold.it/350x250
+  image: /BLM.jpg
   text: "Everything can be found here."
   title: "Navigational Menu"
   nav: main

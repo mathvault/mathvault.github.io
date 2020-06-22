@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Math Vault Testing Hub"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : Where cool things happen
 name                     : "Math Vault"
 description              : "Your unusual digital publisher of higher mathematics."

@@ -23,3 +23,14 @@ This is a quick **about page** about this *awesome* testing hub.
 <figure class="third"><img src="/BLM.jpg"/> <img src="/BLM.jpg"/> <img src="/BLM.jpg"/> <figcaption>Three figures sides by sides</figcaption></figure>
 
 <p class="notice--danger">Watch out! This paragraph uses the class .notice--danger!</p>
+
+Other simiar classes include:
+
+* `.notice`
+* `.notice--primary`
+* `.notice--info`
+* `.notice--warning`
+* `.notice--success`
+* `.notice--danger`
+
+

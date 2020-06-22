@@ -3,11 +3,12 @@ title: "Fourth Post: Single Layout with Header Image"
 layout: single
 permalink: /fourth-post/
 author: Math Vault
+author_profile: true
 toc: true
 tagline: "Cool things happen here."
 header:
   overlay_image: BLM.jpg
-  overlay_filter: rgba(128, 50, 10, 0.5)
+  overlay_filter: rgba(50, 50, 50, 0.5)
   caption: "Brought to you by Math Vault"
   actions:
     - label: "Learn More"

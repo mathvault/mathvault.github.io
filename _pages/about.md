@@ -4,6 +4,13 @@ layout: default
 permalink: /about/
 author: Math Vault
 toc: true
+header:
+  overlay_image: /BLM.jpg
+  overlay_filter: rgba(128, 50, 10, 0.5)
+  caption: "Brought to you by **Math Vault**"
+  actions:
+    - label: "Learn More"
+      url:
 ---
 
 This is a quick **about page** about this *awesome* testing hub.

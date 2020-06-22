@@ -2,7 +2,7 @@
 Title: "First Test Post: Single-wide Layout"
 author: Math Vault
 layout: single
-permalink: /first-test-post
+permalink: /first-post
 classes: wide
 toc: true
 ---

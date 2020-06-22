@@ -1,3 +1,7 @@
+---
+permalink: README.html
+---
+
 # Math Vault Resource Hub
 Welcome to the club!
 

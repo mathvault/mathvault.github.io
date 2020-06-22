@@ -1,5 +1,5 @@
 ---
-Title: "First Test Post: Single Layout (Wide)"
+Title: "First Test Post: Single, Wide Layout"
 author: Math Vault
 layout: single
 permalink: /first-post

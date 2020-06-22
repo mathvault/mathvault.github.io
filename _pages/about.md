@@ -7,3 +7,5 @@ toc: true
 ---
 
 This is a quick **about page** about this *awesome* testing hub.
+
+{% include video id="XsxDH4HcOWA" provider="youtube" %}

@@ -9,7 +9,7 @@ toc: true
 sidebar: 
   image: //placehold.it/350x250
   text: "Everything can be found here."
-  title: "Main Navigational Menu"
+  title: "Navigational Menu"
   nav: main
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "A Second Post: Single layout"
+title: "A Second Post: Single Layout"
 author: Math Vault
 layout: single
 permalink: /second-post

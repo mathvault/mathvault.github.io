@@ -1,5 +1,5 @@
 ---
-title: "Third post: Default layout"
+title: "Third Post: Default Layout"
 layout: default
 author: Math Vault
 permalink: /third-post/

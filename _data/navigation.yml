@@ -3,13 +3,14 @@ main:
   - title: "Home"
     url: /
   - title: "Posts"
-    url: #
+    url: 
     children:
-      title: "First Post"
+     - title: "First Post"
       url: /first-post
-      title: "Second Post"
+     - title: "Second Post"
       url: /second-post
-      title: "Third Post"
+     - title: "Third Post"
       url: /third-post
+     
   - title: "About"
     url: /about/

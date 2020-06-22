@@ -7,8 +7,14 @@ category: posts
 toc: true
 ---
 
-Just checking
+Just checking.
 
-[Download PDF](#){: .btn .btn--success .btn--large} [Primary Button](#){: .btn .btn--x--large} [Warning Botton](#){: .btn .btn--warning} [Danger Botton](#){: .btn .btn--danger} [Info Botton](#){: .btn .btn--info}
+{% include toc %}
+
+## A Dummy Section
+
+[Download PDF](#){: .btn .btn--success .btn--large} [Primary Button](#){: .btn .btn--X--large} [Warning Botton](#){: .btn .btn--warning} [Danger Botton](#){: .btn .btn--danger} [Info Botton](#){: .btn .btn--info}
+
+## Another Dummy Section
 
 

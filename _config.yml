@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Math Vault"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Geeky and unconventional."
+  avatar           : /Redditbots.png
+  bio              : "Geeky and unconventional. Kind of dorky."
   location         :
   email            : info@mathvault.ca
   links:

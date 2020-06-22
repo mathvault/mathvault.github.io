@@ -72,7 +72,7 @@ naver_site_verification  :
 twitter:
   username               : mathvault
 facebook:
-  username               :
+  username               : mathvault
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -126,7 +126,7 @@ footer:
       url: https://twitter.com/mathvault
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: https://facebook.com/mathvault
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://instagram.com/mathvault
 
 
 # Reading Files

@@ -5,6 +5,7 @@ layout: single
 permalink: /second-post
 classes: # wide
 toc: true
+toc_sticky:true
 ---
 
 A second attempt. Here are a few sections.

@@ -11,6 +11,8 @@ main:
        url: /second-post/
      - title: "Third Post"
        url: /third-post/
+     - title: "Fourth Post"
+       url: /fourth-post/
      
   - title: "About"
     url: /about/

@@ -1,9 +1,9 @@
 ---
-Title: First test post
+Title: "First test post"
 layout: single
 permalink: /first-test-post
 classes: wide
 toc:true
 ---
 
-A **first hpost**. Exciting!
+A **first post**. Exciting!

@@ -19,6 +19,10 @@ OK. You win. Let's play a game together. OK. You win. Let's play a game together
 
 #### Fellowship of the Ring
 
+![BLM](/BLM.jpg)
+
+![BLM](/BLM.jpg){: .full}
+
 ### Traveling Through the Domain of God
 
 ### An Interesting Party

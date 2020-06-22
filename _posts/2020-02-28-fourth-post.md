@@ -2,7 +2,6 @@
 title: "Fourth Post: Single Layout with Header Image"
 layout: single
 permalink: /fourth-post/
-author: Math Vault
 author_profile: true
 toc: true
 tagline: "Cool things happen here."

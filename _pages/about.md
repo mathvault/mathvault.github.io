@@ -16,3 +16,5 @@ header:
 This is a quick **about page** about this *awesome* testing hub.
 
 {% include video id="XsxDH4HcOWA" provider="youtube" %}
+
+<figure class="half"><img src="/BLM.jpg"/> <img src="/BLM.jpg"/> <figcaption>Two figures sides by sides</figcaption></figure>

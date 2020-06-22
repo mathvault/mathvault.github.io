@@ -1,6 +1,7 @@
 ---
-Title: First test page
+Title: First test post
 layout: single
+permalink:/first-test-post
 classes: wide
 toc:true
 ---

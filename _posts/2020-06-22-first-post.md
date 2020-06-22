@@ -7,6 +7,7 @@ category: posts
 classes: wide
 toc: true
 sidebar: 
+  title: "Main Navigational Menu"
   nav: main
 ---
 

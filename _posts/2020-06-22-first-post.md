@@ -87,7 +87,7 @@ To typeset special characters (such as \]), append `\` before it.
 
 Like link. Just append a `!` before everything.
 
-![Mathematician](BLM.jpg)
+![Mathematician](/BLM.jpg)
 
 ## Blockquote with `> `
 

@@ -96,7 +96,7 @@ author:
   name             : "Math Vault"
   avatar           : /Redditbots.png
   bio              : "Geeky and unconventional. Kind of dorky."
-  location         :
+  location         : "Montreal, Quebec"
   email            : info@mathvault.ca
   links:
     - label: "Email"
@@ -104,19 +104,19 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: https://mathvault.ca
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/mathvault"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mathvault"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/mathvault"
 
 # Site Footer
 footer:

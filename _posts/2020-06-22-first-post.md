@@ -3,6 +3,7 @@ title: "First Test Post: Single, Wide Layout"
 author: Math Vault
 layout: single
 permalink: /first-post/
+category: posts
 classes: wide
 toc: true
 sidebar: 

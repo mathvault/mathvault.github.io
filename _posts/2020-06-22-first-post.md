@@ -6,7 +6,7 @@ permalink: /first-post
 classes: wide
 toc: true
 sidebar: 
-  nav: "main"
+  nav: main
 ---
 
 A **first post**. Exciting!

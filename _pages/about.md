@@ -10,7 +10,7 @@ header:
   caption: "Brought to you by Math Vault"
   actions:
     - label: "Learn More"
-      url:
+      url: "https://mathvault.ca"
 ---
 
 This is a quick **about page** about this *awesome* testing hub.

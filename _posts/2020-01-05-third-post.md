@@ -9,4 +9,6 @@ toc: true
 
 Just checking
 
-[Download PDF](#){: .btn .btn--success .btn--large}
+[Download PDF](#){: .btn .btn--success .btn--large} [Primary Button](#){: .btn .btn--x--large} [Warning Botton](#){: .btn .btn--warning} [Danger Botton](#){: .btn .btn--danger} [Info Botton](#){: .btn .btn--info}
+
+

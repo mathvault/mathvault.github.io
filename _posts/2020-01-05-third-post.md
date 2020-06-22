@@ -7,3 +7,5 @@ toc: true
 ---
 
 Just checking
+
+[Download PDF](#){: .btn .btn--success .btn--large}

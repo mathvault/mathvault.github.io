@@ -1,15 +1,21 @@
 # Math Vault Resource Hub
-Welcome to the club!
+
+Welcome to the club\!
 
 ## Markdown Reference Sheet
 
 ### Headings with `#`
 
 # Heading 1
+
 ## Heading 2
+
 ### Heading 3
+
 #### Heading 4
+
 ##### Heading 5
+
 ###### Heading 6
 
 ### Text Ornaments
@@ -18,17 +24,17 @@ Welcome to the club!
 
 **Italic** with `**` or `__`
 
-`code` with `
+`code` with \`
 
 [link](https://mathvault.ca) with \[link\](your-url)
 
 Link to [**anchor**](#text-ornaments) is fine too.
 
-To turn URL (such as <https://mathvault.ca>) into link, use `<>`.
+To turn URL (such as [https://mathvault.ca](https://mathvault.ca)) into link, use `<>`.
 
 ~~strikethrough~~ with `~~`
 
-Emoji such as :smiley_cat: are supported with `:smiley_cat:`. See [cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) for more (might not work outside GitHub)
+Emoji such as :smiley\_cat: are supported with `:smiley_cat:`. See [cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) for more (might not work outside GitHub)
 
 Horizontal rule with `---`
 
@@ -36,10 +42,10 @@ Horizontal rule with `---`
 
 Multiline codes with three backticks (followed by code's language if applicable)
 
-```python
+~~~python
 s = "Python syntax highlighting"
 print s
-```
+~~~
 
 ## Line break
 
@@ -59,16 +65,18 @@ To typeset special characters (such as \]), append `\` before it.
   * And this
 
 1. Ordered list with `1. `
-1. Let the numbering take care of itself
-1. Nesting is also possible with indent
+2. Let the numbering take care of itself
+3. Nesting is also possible with indent
    1. Like this
-   1. And this
-   
-- [ ] For checklist, use `- [ ]`
-- [x] For checked item, use `- [x]`
-  - [ ] Nesting is possible as well
-  - [x] Like this
-   
+   2. And this
+
+* <input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />For checklist, use `- [ ]`{: .task-list-item}
+* <input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />For checked item, use `- [x]`
+  * <input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Nesting is possible as well{: .task-list-item}
+  * <input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />Like this{: .task-list-item}
+  {: .task-list}{: .task-list-item}
+{: .task-list}
+
 ## Images
 
 Like link. Just append a `!` before everything.
@@ -78,30 +86,30 @@ Like link. Just append a `!` before everything.
 ## Blockquote with `> `
 
 > "I'm a mathematician. And you're a technician."
+>
+>
 > > Nesting blockquote can be fun
-> > > And the third-level gets even "funner"!
+> >
+> >
+> > > And the third-level gets even "funner"\!
 
 ## Table
 
 Use `-` to draw horizontal line, and `|` to draw vertical line.
 
-`Description | Quantity | Price`   
-`----------- | -------- | -----`   
-`Mushies | 4 | $1.99`  
-`Pumpkin | 1 | $9.97`  
-`Philips Electric Razor | 2 | $29.99`
+`Description | Quantity | Price`<br>`----------- | -------- | -----`<br>`Mushies | 4 | $1.99`<br>`Pumpkin | 1 | $9.97`<br>`Philips Electric Razor | 2 | $29.99`
 
-Description | Quantity | Price
------------ | -------- | -----
-Mushies | 4 | $1.99
-Pumpkin | 1 | $9.97
-Philips Electric Razor | 2 | $29.99 
+| Description | Quantity | Price |
+| --- | --- | --- |
+| Mushies | 4 | $1.99 |
+| Pumpkin | 1 | $9.97 |
+| Philips Electric Razor | 2 | $29.99 |
 
 ## Raw HTML
 
 ### Description List
 
-```
+~~~
 <dl>
   <dt>Cat</dt>
   <dd>A feline animal. Similar to lion.</dd>
@@ -109,24 +117,18 @@ Philips Electric Razor | 2 | $29.99
   <dt>Dog</dt>
   <dd>A canine animal. Sometimes not very friendly.</dd>
 </dl>
-```
+~~~
 
-<dl>
-  <dt>Cat</dt>
-  <dd>A feline animal. Similar to lion.</dd>
-
-  <dt>Dog</dt>
-  <dd>A canine animal. Sometimes not very friendly.</dd>
-</dl>
+<dl><dt>Cat</dt><dd>A feline animal. Similar to lion.</dd><dt>Dog</dt><dd>A canine animal. Sometimes not very friendly.</dd></dl>
 
 ### Alternatively-aligned paragraphs
 
 Using `p` tag with `text-align:right`
 
-<p style="text-align:right;">A right-aligned paragraph. Not possible in native Markdown, but still possible with HTML!</p>
+A right-aligned paragraph. Not possible in native Markdown, but still possible with HTML\!
 
 ### Superscript and Subscript
 
-<h3 style="text-align:center;">E<sub>nergy</sub> = mc<sup>123456780</sup>!</h3>
+### E<sub>nergy</sub> = mc<sup>123456780</sup>\!
 
-That's it! Class dismissed!
+That's it\! Class dismissed\!

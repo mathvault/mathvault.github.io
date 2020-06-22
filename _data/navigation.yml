@@ -2,5 +2,14 @@
 main:
   - title: "Home"
     url: /
+  - title: "Posts"
+    url: #
+    children:
+      title: "First Post"
+      url: /first-post
+      title: "Second Post"
+      url: /second-post
+      title: "Third Post"
+      url: /third-post
   - title: "About"
     url: /about/

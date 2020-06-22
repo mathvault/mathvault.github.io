@@ -2,7 +2,7 @@
 title: "A Second Post: Single Layout"
 author: Math Vault
 layout: single
-permalink: /second-post/
+permalink: /second-post
 classes: # wide
 toc: true
 toc_sticky: true

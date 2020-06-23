@@ -5,7 +5,7 @@ permalink: /fourth-post/
 author_profile: true
 toc: true
 tagline: "Cool things happen here."
-category: posts
+category: Posts
 read_time: false
 header:
   overlay_image: BLM.jpg

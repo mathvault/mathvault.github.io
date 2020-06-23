@@ -19,9 +19,9 @@ Just checking.
 
 ### Math Mode
 
-\$, \parenthesis: $a+b=c$, \( a+b=c \)
+Dollar sign, slash-parenthesis: $a+b=c$, \( a+b=c \)
 
-Double \$, \bracket: $$a+b=c$$, \[ a+b=c \] 
+Double dollar-sign, slash-bracket: $$a+b=c$$, \[ a+b=c \] 
 
 $$$ New Commands / Environments
 

@@ -17,9 +17,9 @@ Just checking.
 
 ## Math Symbols Extravaganza
 
-### Math Mode
+Only single-dollar-sign works. The rest is deliberated stripped. No other issue after that.
 
-Only single-dollar-sign works. The rest is deliberated stripped.
+### Math Mode
 
 Dollar sign, slash-parenthesis: $a+b=c$, \( a+b=c \)
 

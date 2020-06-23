@@ -25,7 +25,11 @@ Center-align text with `{: .text-center}`
 Right-align text with `{: .text-right}`
 {: .text-right}
 
-Inline math works as usual: $E=mc^2$
+**Inline math** works as usual: $E=mc^2$
+
+Double dollar-sign for **display math**
+
+$$ \frac{-b \pm \sqrt{b^2-4ac}}{2a} $$
 
 ## Markdown Reference Sheet
 

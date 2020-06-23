@@ -6,6 +6,7 @@ author_profile: true
 toc: true
 tagline: "Cool things happen here."
 category: posts
+read_time: false
 header:
   overlay_image: BLM.jpg
   overlay_filter: rgba(50, 50, 50, 0.5)

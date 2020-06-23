@@ -3,7 +3,9 @@ title: "A Second Post: Single Layout"
 author: Math Vault
 layout: single
 permalink: /second-post/
-category: Posts
+category: 
+  - Posts
+  - Cupid
 classes: # wide
 toc: true
 toc_sticky: true

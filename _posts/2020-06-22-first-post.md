@@ -93,6 +93,8 @@ Like link. Just append a `!` before everything.
 
 ![Mathematician](/BLM.jpg)
 
+Default (Left-align)
+
 ![Mathematician](/Redditbots.png)
 
 **Center align** by suffixing `{: .align-center}`

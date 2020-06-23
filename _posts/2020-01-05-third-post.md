@@ -107,7 +107,7 @@ Boxed command: $\boxed{E=mc^2}$
 
 ### Verbatim
 
-$\verb|Everything in verbatim...|$
+$\verb,Everything in verbatim...,$
 
 ### Table / Array /Matrix / Pmatrix / Bmatrix / Vmatrix / vmatrix/ Smallmatrix
 Equations

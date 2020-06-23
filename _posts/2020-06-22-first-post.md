@@ -93,6 +93,15 @@ Like link. Just append a `!` before everything.
 
 ![Mathematician](/BLM.jpg)
 
+**Center align** by suffixing `{: .align-center}`
+
+![Mathematician](/Redditbots.png){: .align-center}
+
+
+**Right align** by suffixing `{: .align-right}`
+
+![Mathematician](/Redditbots.png){: .align-right}
+
 ## Blockquote with `> `
 
 > "I'm a mathematician. And you're a technician."

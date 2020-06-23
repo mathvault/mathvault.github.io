@@ -31,7 +31,7 @@ Double dollar-sign, slash-bracket: $$a+b=c$$, \[ a+b=c \] 
 
 King environment: $\newenvironment{king}{\text{King environment starts with this}}{\text{... and ends with this}} \begin{king}\end{king}$
 
-$$$ Spacing with \\ and \newline
+### Spacing with \\ and \newline
 
 Line breaking doesn't work in single-line math mode. Stripslash with double \
 

@@ -10,7 +10,7 @@ header:
     - label: "Learn More"
       url: "https://mathvault.ca/"
   caption: "Brought to you by **Math Vault**"
-excerpt: "Discover what it takes to become a lifelong learner of mathematics." 
+excerpt: "Discover what it takes to become a lifelong learner of mathematics — all of the while having fun doing so." 
 ---
 
 A neat tool for creating landing page. Just want to know how it looks like...

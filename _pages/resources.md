@@ -1,5 +1,5 @@
 ---
-Title: Resources
+title: Resources
 layout: splash
 permalink: /resources/
 header:
@@ -12,11 +12,11 @@ header:
   caption: "Brought to you by **Math Vault**"
 excerpt: "Discover what it takes to become a lifelong learner of mathematics — all of the while having fun doing so." 
 intro:
-  - excerpt: "OK. Showtime. You have 39 minutes to solve this medium-difficulty problem."
+  - excerpt: 'OK. Showtime. You have 39 minutes to solve this medium-difficulty problem.'
 card:
   - image_path: /Redditbots.png
     title: "Mathematically Cute As Hell"
-    excerpt: 'We've done our part to streamline the entire process. So now's time to have fun!'
+    excerpt: "We've done our part to streamline the entire process. So now's time to have fun!"
     url: "#"
     btn_label: "Learn More"
     btn_class: "btn--success"

@@ -4,7 +4,7 @@ layout: splash
 permalink: /resources/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.75"
+  overlay_filter: "0.6"
   overlay_image: /BLM.jpg
   actions:
     - label: "Learn More"

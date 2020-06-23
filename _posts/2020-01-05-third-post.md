@@ -19,6 +19,8 @@ Just checking.
 
 ### Math Mode
 
+Only single-dollar-sign works. The rest is deliberated stripped.
+
 Dollar sign, slash-parenthesis: $a+b=c$, \( a+b=c \)
 
 Double dollar-sign, slash-bracket: $$a+b=c$$, \[ a+b=c \] 

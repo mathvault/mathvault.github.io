@@ -27,9 +27,7 @@ Right-align text with `{: .text-right}`
 
 **Inline math** works as usual: $E=mc^2$
 
-\[ E=mc^2 \]
-
-**display math** is good too. \begin{align} \frac{-b \pm \sqrt{b^2-4ac}}{2a} \end{align}
+For **display math**, use the more flexible `align` environment. \begin{align} \frac{-b \pm \sqrt{b^2-4ac}}{2a} \end{align}
 
 ## Markdown Reference Sheet
 

@@ -43,6 +43,8 @@ double-card:
 
 {% include feature_row id="card" type="right" %}
 
+{% include feature_row id="double-card" type="right" %}
+
 A neat tool for creating landing page. Just want to know how it looks like...
 
 ## Image

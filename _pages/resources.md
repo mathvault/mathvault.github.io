@@ -28,11 +28,17 @@ double-card:
     btn_label: "Download"
     btn_class: "btn--warning"
   - image_path: /Redditbots.png
-    title: "It's a no-kidding kiddonomics"
+    title: "It's a No-kidding Kiddonomics"
     excerpt: "No joke. No meme. No fanciness. And all guaranteed."
     url: "#"
     btn_label: "Get More Detail"
     btn_class: "btn--primary btn--large"
+  - image_path: /Redditbots.png
+    title: "From the Cloud Straight to Your House"
+    excerpt: "Mathematical goodness travelled at the speed of light — or so we think."
+    url: "#"
+    btn_label: "Eruditize Yourself"
+    btn_class: "btn--info"
 ---
 
 {% include feature_row id="intro" type="center" %}

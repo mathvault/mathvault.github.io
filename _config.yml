@@ -74,14 +74,18 @@ twitter:
 facebook:
   username               : mathvault
   app_id                 :
-  publisher              :
+  publisher              : https://facebook.com/mathvault
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Organisation
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
+    - "https://facebook.com/mathvault"
+    - "https://twitter.com/mathvault"
+    - "https://instagram.com/mathvault"
+    - "https://linkedin.com/company/math-vault"
 
 # Analytics
 analytics:
@@ -219,6 +223,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:

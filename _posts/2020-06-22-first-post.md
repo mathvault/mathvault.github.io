@@ -7,10 +7,14 @@ category: Posts
 classes: wide
 toc: true
 sidebar: 
-  image: /BLM.jpg
-  text: "Everything can be found here."
-  title: "Navigational Menu"
-  nav: main
+  - title: "Navigational Menu"
+    image: /BLM.jpg
+    text: "Everything can be found here." 
+  - title: "Instruction"
+    image: /BLM.jpg
+    text: "Read everything carefully before giving up." 
+    
+  - nav: main
 ---
 
 A **first post**. Exciting!

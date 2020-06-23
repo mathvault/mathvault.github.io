@@ -31,6 +31,8 @@ Right-align text with `{: .text-right}`
 
 # Heading 1
 ## Heading 2
+{: .text-right}
+
 ### Heading 3
 #### Heading 4
 ##### Heading 5

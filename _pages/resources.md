@@ -20,6 +20,19 @@ card:
     url: "#"
     btn_label: "Learn More"
     btn_class: "btn--success"
+double-card:
+  - image_path: /Redditbots.png
+    title: "Redditdog and Redditlady"
+    excerpt: "Yes. It's science. No, actually, it's mathematics."
+    url: "#"
+    btn_label: "Download"
+    btn_class: "btn--warning"
+  - image_path: /Redditbots.png
+    title: "It's a no-kidding kiddonomics"
+    excerpt: "No joke. No meme. No fanciness. And all guaranteed."
+    url: "#"
+    btn_label: "Get More Detail"
+    btn_class: "btn--primary btn--large"
 ---
 
 {% include feature_row id="intro" type="center" %}

@@ -25,6 +25,8 @@ Center-align text with `{: .text-center}`
 Right-align text with `{: .text-right}`
 {: .text-right}
 
+Inline math works as usual: $E=mc^2$
+
 ## Markdown Reference Sheet
 
 ### Headings with `#`

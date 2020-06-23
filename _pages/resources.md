@@ -47,7 +47,7 @@ double-card:
 
 {% include feature_row id="card" type="left" %}
 
-{% include feature_row id="card" type="right" %}
+{% include feature_row id="card" type="right" %}{: .text-right}
 
 {% include feature_row id="double-card" %}
 

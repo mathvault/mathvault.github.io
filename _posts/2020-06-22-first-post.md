@@ -22,6 +22,8 @@ A **first post**. Exciting!
 Center-align text with `{: .text-center}`
 {: .text-center}
 
+Right-align text with `{: .text-right}`
+{: .text-right}
 
 ## Markdown Reference Sheet
 

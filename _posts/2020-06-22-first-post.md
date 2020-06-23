@@ -11,7 +11,7 @@ sidebar:
     image: /BLM.jpg
     text: "Everything can be found here." 
   - title: "Instruction"
-    image: /Redditbots.jpg
+    image: /Redditbots.png
     text: "Read everything carefully before giving up." 
     
   - nav: main

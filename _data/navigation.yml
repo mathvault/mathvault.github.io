@@ -13,6 +13,8 @@ main:
        url: /third-post/
      - title: "Fourth Post"
        url: /fourth-post/
-     
+  
+  - title: "Resources"
+    url: /resources/
   - title: "About"
     url: /about/

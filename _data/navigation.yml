@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Posts"
-    url: /categories
+    url: /categories/
     children:
      - title: "First Post"
        url: /first-post/

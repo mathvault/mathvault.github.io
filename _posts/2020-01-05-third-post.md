@@ -23,7 +23,7 @@ Dollar sign, slash-parenthesis: $a+b=c$, \( a+b=c \)
 
 Double dollar-sign, slash-bracket: $$a+b=c$$, \[ a+b=c \] 
 
-$$$ New Commands / Environments
+### New Commands / Environments
 
 \R and \ddx commands: $\newcommand{\R}{\mathbb{R}} \newcommand{\ddx}{\dfrac{d}{dx}} \R  \ddx$
 
@@ -41,7 +41,7 @@ Line breaking doesn't work in single-line math mode. Stripslash with double \
 
 \[ abc \newline def \]
 
-$$$ Color package
+### Color package
 
 \color{blue}: ${\color{blue} Blue}$
 
@@ -53,7 +53,7 @@ Fcolorbox: $\fcolorbox{5em}{brown}{There's a box around this}$
 
 Definecolor: $\definecolor{navyblue}{RGB}{13,55, 212} {\color{navyblue} navyblue}$
 
-$$$ Bbox / Cancel / Boldsymbol / Enclose extensions
+### Bbox / Cancel / Boldsymbol / Enclose extensions
 
 Require extension/command not needed.
 
@@ -65,21 +65,21 @@ Require extension/command not needed.
 
 \enclose: $\enclose{longdiv}[mathcolor="red"]{1234567890}$
 
-$$$ Trig function commands
+### Trig function commands
 
 $\arcsin$, $\arccos$, $\arctan$
 
 Commands from physic extension: $\require{physics} \arccsc$, $\arcsec$, $\arccot$, $\csch$, $\sech$
 
-$$$ Special Symbols
+### Special Symbols
 
 $\LaTeX, \TeX$
 
-$$$ Big Operators
+### Big Operators
 
 $\displaystyle \sum, \prod, \frac{1}{2}, \tfrac{111}{222}, \int, \iiint, \binom{123}{456}, \dbinom{aaa}{222}, \tbinom{aaa}{bbb}$
 
-$$$ Operators
+### Operators
 
 $\sqrt[5]{x^2+1}, \pm,$
 
@@ -87,15 +87,15 @@ $\sqrt[5]{x^2+1}, \pm,$
 
 \operatorname: $\operatorname{Hom}$
 
-$$$ Relations
+### Relations
 
 $\ge, \le$
 
-$$$ Dots
+### Dots
 
 $\dot{u}$, $\dots$, $\cdot$, $\cdots$, $\ldots$, $\ddddot{ABC}$
 
-$$$ Ornaments
+### Ornaments
 
 $\stackrel{ff}{aa}, \vec{v}, \underline{hehehe}, \overline{hehehe}, \overbrace{It's on the top}, \underbrace{At the bottom}, \xleftarrow{Very looooooooooooooooooooooooooog} \xrightarrow[Dooooooooooooown there]{}$
 
@@ -105,23 +105,23 @@ $\sideset{aaa}{aaaa}, \sum_{\substack{fff \\ fff}}, \underparen{it's under}, \ov
 
 Boxed command: $\boxed{E=mc^2}$
 
-$$$ Verbatim
+### Verbatim
 
 $\verb|Everything in verbatim...|$
 
-$$$ Table / Array /Matrix / Pmatrix / Bmatrix / Vmatrix / vmatrix/ Smallmatrix
+### Table / Array /Matrix / Pmatrix / Bmatrix / Vmatrix / vmatrix/ Smallmatrix
 Equations
 
 \begin{equation} 1 + 2 + \cdots + (n-1) + n = \dfrac{n (n+1)}{2} \label{cat} \end{equation}
 
 \eqref and \ref: In the equation \eqref{cat}, we mentioned that \ref{cat}...
 
-$$$ Align / Multline / Gather / Flalign / Cases
+### Align / Multline / Gather / Flalign / Cases
 Align
 
 \begin{align} 1 + 2 & = 2 + 1 & \text{(Commutativity of addition)} \\ & = 3 & (\text{Magic!}) \end{align}
 
-$$$ Gather
+### Gather
 
 \begin{gather} abc \\ def \end{gather}
 

@@ -6,3 +6,5 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.btn--reddit, .btn--reddit:visited{background-color:#ff4500;color:#fff} .btn--reddit:hover{background-color:#e63e00;color:#fff}

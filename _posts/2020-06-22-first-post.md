@@ -30,7 +30,7 @@ Right-align text with `{: .text-right}`
 ### Headings with `#`
 
 # Heading 1
-## Heading 2
+## Heading 2 with the `{: .text-right}` Tag
 {: .text-right}
 
 ### Heading 3

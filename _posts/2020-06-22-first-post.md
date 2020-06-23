@@ -19,6 +19,10 @@ sidebar:
 
 A **first post**. Exciting!
 
+Center-align text with `{: .text-center}`
+{: .text-center}
+
+
 ## Markdown Reference Sheet
 
 ### Headings with `#`

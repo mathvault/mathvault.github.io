@@ -7,5 +7,4 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* @font-face {font-family: "Helvetica Neue"; src: url("//mikeheavers.com/codepen/fonts/helvetica-neue/HelveticaNeue.woff2") format("woff2");}
-body {font-family:'Helvetica Neue', sans-serif;} */
+.btn--reddit{background-color:#ff4500; color:#ffffff;} .btn--reddit:hover{background-color:#ff6000; color:#ffffff;}

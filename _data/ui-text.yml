@@ -11,7 +11,7 @@ en: &DEFAULT_EN
   pagination_previous        : "Previous"
   pagination_next            : "Next"
   breadcrumb_home_label      : "Home"
-  breadcrumb_separator       : "»"
+  breadcrumb_separator       : ">"
   menu_label                 : "Menu"
   search_label               : "Search"
   toc_label                  : "Table of Contents"

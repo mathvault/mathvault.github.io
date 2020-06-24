@@ -48,6 +48,10 @@ For **display math**, use the more flexible `align` environment. \begin{align} \
 
 **Italic** with `**` or `__`
 
+<ins>Underline</ins> with the `<ins>` tag
+
+~~strikethrough~~ with `~~`
+
 `code` with `
 
 [link](https://mathvault.ca) with \[link\](your-url)
@@ -55,8 +59,6 @@ For **display math**, use the more flexible `align` environment. \begin{align} \
 Link to [**anchor**](#text-ornaments) is fine too.
 
 To turn URL (such as <https://mathvault.ca>) into link, use `<>`.
-
-~~strikethrough~~ with `~~`
 
 Emoji such as :smiley_cat: are supported with `:smiley_cat:`. See [cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) for more (might not work outside GitHub)
 

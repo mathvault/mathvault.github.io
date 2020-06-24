@@ -5,6 +5,7 @@ permalink: /about/
 author: Math Vault
 toc: true
 tagline: "Cool things happen here."
+menus: main
 header:
   overlay_image: BLM.jpg
   overlay_filter: rgba(128, 50, 10, 0.5)

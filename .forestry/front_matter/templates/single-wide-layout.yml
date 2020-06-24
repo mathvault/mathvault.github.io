@@ -1,0 +1,38 @@
+---
+label: Single, Wide Layout
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: category
+  label: category
+- type: text
+  name: classes
+  label: classes
+- type: boolean
+  name: toc
+  label: toc
+- type: field_group_list
+  name: sidebar
+  label: sidebar
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: text
+    label: text

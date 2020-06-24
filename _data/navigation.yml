@@ -7,6 +7,10 @@ main:
     children:
      - title: "First Post"
        url: /first-post/
+       children:
+       - title: "First Post Again"
+         url: /first-post/
+         
      - title: "Second Post"
        url: /second-post/
      - title: "Third Post"
@@ -15,6 +19,6 @@ main:
        url: /fourth-post/
   
   - title: "Resources"
-    url: /resources/
+    url: /resources/ 
   - title: "About"
     url: /about/

@@ -102,7 +102,7 @@ To typeset special characters (such as \]), append `\` before it.
   - [x] Like this
 
 
-Definition List using `:` to indent, and double-space to line break
+Definition List using `: ` to indent
 : A cat with no fur
 
 

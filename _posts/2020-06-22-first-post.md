@@ -52,6 +52,8 @@ For **display math**, use the more flexible `align` environment. \begin{align} \
 
 ~~strikethrough~~ with `~~`
 
+<mark>Highlight text</mark> with HTML tag `<mark>`
+
 `code` with `
 
 [link](https://mathvault.ca) with \[link\](your-url)

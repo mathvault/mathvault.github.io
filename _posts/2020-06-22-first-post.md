@@ -100,6 +100,16 @@ To typeset special characters (such as \]), append `\` before it.
 - [x] For checked item, use `- [x]`
   - [ ] Nesting is possible as well
   - [x] Like this
+
+
+Definition List using `:` to indent, and double-space to line break
+: A cat with no fur
+
+
+Exophoric
+: A form of ocular convergence issue where the eyes are "shooting" outwards
+
+
    
 ## Images
 

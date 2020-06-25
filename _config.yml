@@ -269,8 +269,8 @@ jekyll-archives:
 # - https://jch.penibelst.de/
 compress_html:
    clippings: all
-  # comments: ["<!-- ", " -->"]
-  # endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  # comments: []
+   endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
    ignore:
     envs: development
 
